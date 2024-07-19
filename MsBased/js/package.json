@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@swisstronik/utils": "^1.3.0"
+  }
+}
